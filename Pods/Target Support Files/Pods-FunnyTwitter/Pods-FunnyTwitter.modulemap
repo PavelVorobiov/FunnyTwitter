@@ -1,0 +1,6 @@
+framework module Pods_FunnyTwitter {
+  umbrella header "Pods-FunnyTwitter-umbrella.h"
+
+  export *
+  module * { export * }
+}
